@@ -13,6 +13,8 @@ void lunteTest() {
 	cout << "Jup, dikke lunte it is..." << endl;
 }
 
+void DikkereLunte(){cout << "Jup, dikkere lunte it is..." << endl;}
+
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	lunteTest();

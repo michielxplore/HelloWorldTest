@@ -9,7 +9,12 @@
 #include <iostream>
 using namespace std;
 
+void lunteTest() {
+	cout << "Jup, dikke lunte it is..." << endl;
+}
+
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	lunteTest();
 	return 0;
 }
